@@ -1,0 +1,26 @@
+body {
+  background-color: #F3F7F7;
+  font-family: "Ubuntu Mono", serif;
+}
+
+.title {
+  color: #5D646F;
+  font-size: 30px;
+}
+
+.subtitle {
+  color: #5D646F;
+  font-size: 18px;
+}
+
+.tick line {
+    stroke: #5D646F;
+    opacity: 0.2;
+    stroke-dasharray: 2, 2;
+}
+
+.tick {
+    color: #5D646F;
+    font-family: "Ubuntu Mono", serif;
+    font-size: 13px;
+}
